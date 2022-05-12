@@ -1,0 +1,11 @@
+[package]
+name = "perlin"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+perlin_noise = "1.0.1"
+sdl2 = "0.35.2"
+rand = "0.8.5"
